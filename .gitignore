@@ -1,0 +1,19 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!.gitattributes
+!package.xml
+!CMakeLists.txt
+!LICENSE
+!readme.*
+
+# And these filetypes
+!*.clp
+
+# And these subdirectories
+!include/
+!lib/
+!msg/
+!src/
+!srv/
